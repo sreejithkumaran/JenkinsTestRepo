@@ -25,13 +25,5 @@ public class TestClass1 extends TestNGBase{
   public void TC_4() {
 	  Assert.assertTrue(true);
   }
-  
-  @Test
-  public void TC_5() {
-	  Assert.assertTrue(true);
-  }
-  
-  
-  
- 
+   
 }

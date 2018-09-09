@@ -10,12 +10,7 @@ public class TestNGBase {
 		 System.out.println("Start Excecution : "+this.getClass().getName());
 	 }
 	
-	
-	
-	
-	
-	
-	
+
 	 @AfterClass	
 	  public void afterClass() {
 		 System.out.println("End Excecution : "+this.getClass().getName());
