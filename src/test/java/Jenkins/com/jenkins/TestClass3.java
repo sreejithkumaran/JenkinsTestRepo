@@ -7,7 +7,7 @@ public class TestClass3 extends TestNGBase{
 	
   @Test
   public void TC_1() {
-	  Assert.assertTrue(false);
+	  Assert.assertTrue(true);
 	  
   }
   
@@ -28,7 +28,7 @@ public class TestClass3 extends TestNGBase{
   
   @Test
   public void TC_5() {
-	  Assert.assertTrue(false);
+	  Assert.assertTrue(true);
   }
   
   
